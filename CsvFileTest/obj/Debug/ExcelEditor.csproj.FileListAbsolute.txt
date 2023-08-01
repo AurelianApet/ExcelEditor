@@ -1,0 +1,13 @@
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\bin\Debug\CsvFileTest.exe.config
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\bin\Debug\CsvFileTest.exe
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\bin\Debug\CsvFileTest.pdb
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\obj\Debug\CsvFileTest.Form1.resources
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\obj\Debug\CsvFileTest.Properties.Resources.resources
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\obj\Debug\ExcelEditor.csproj.GenerateResource.Cache
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\obj\Debug\CsvFileTest.exe
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\obj\Debug\CsvFileTest.pdb
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\bin\Debug\Excel.4.5.dll
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\bin\Debug\HtmlAgilityPack.dll
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\obj\Debug\ExcelEditor.csproj.ResolveComReference.cache
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\obj\Debug\ExcelEditor.csprojResolveAssemblyReference.cache

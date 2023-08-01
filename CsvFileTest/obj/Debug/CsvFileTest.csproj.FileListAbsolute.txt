@@ -1,0 +1,13 @@
+C:\Users\NightFury\Downloads\CsvFileTest\CsvFileTest\bin\Debug\CsvFileTest.exe.config
+D:\Work\c#\sample\CsvFileTest\CsvFileTest\bin\Debug\CsvFileTest.exe.config
+D:\Work\c#\scrap\scrap task1\sample\CsvFileTest\CsvFileTest\bin\Debug\CsvFileTest.exe.config
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\bin\Debug\CsvFileTest.exe.config
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\bin\Debug\CsvFileTest.exe
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\bin\Debug\CsvFileTest.pdb
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\obj\Debug\CsvFileTest.Form1.resources
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\obj\Debug\CsvFileTest.Properties.Resources.resources
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\obj\Debug\CsvFileTest.csproj.GenerateResource.Cache
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\obj\Debug\CsvFileTest.exe
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\obj\Debug\CsvFileTest.pdb
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\obj\Debug\CsvFileTest.csprojResolveAssemblyReference.cache
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\obj\Debug\CsvFileTest.csproj.ResolveComReference.cache

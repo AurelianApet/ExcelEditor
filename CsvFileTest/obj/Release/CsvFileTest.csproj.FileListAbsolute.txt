@@ -1,0 +1,18 @@
+D:\Work\c#\scrap\scrap task1\sample\CsvFileTest\CsvFileTest\bin\Release\CsvFileTest.exe.config
+D:\Work\c#\scrap\scrap task1\sample\CsvFileTest\CsvFileTest\bin\Release\CsvFileTest.exe
+D:\Work\c#\scrap\scrap task1\sample\CsvFileTest\CsvFileTest\bin\Release\CsvFileTest.pdb
+D:\Work\c#\scrap\scrap task1\sample\CsvFileTest\CsvFileTest\obj\Release\CsvFileTest.csprojResolveAssemblyReference.cache
+D:\Work\c#\scrap\scrap task1\sample\CsvFileTest\CsvFileTest\obj\Release\CsvFileTest.Form1.resources
+D:\Work\c#\scrap\scrap task1\sample\CsvFileTest\CsvFileTest\obj\Release\CsvFileTest.Properties.Resources.resources
+D:\Work\c#\scrap\scrap task1\sample\CsvFileTest\CsvFileTest\obj\Release\CsvFileTest.csproj.GenerateResource.Cache
+D:\Work\c#\scrap\scrap task1\sample\CsvFileTest\CsvFileTest\obj\Release\CsvFileTest.exe
+D:\Work\c#\scrap\scrap task1\sample\CsvFileTest\CsvFileTest\obj\Release\CsvFileTest.pdb
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\bin\Release\CsvFileTest.exe.config
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\obj\Release\CsvFileTest.exe
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\obj\Release\CsvFileTest.pdb
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\bin\Release\CsvFileTest.exe
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\bin\Release\CsvFileTest.pdb
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\obj\Release\CsvFileTest.csprojResolveAssemblyReference.cache
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\obj\Release\CsvFileTest.Form1.resources
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\obj\Release\CsvFileTest.Properties.Resources.resources
+D:\Work\c#\Office\CsvFileTest\CsvFileTest\obj\Release\CsvFileTest.csproj.GenerateResource.Cache
